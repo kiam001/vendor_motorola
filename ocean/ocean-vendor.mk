@@ -39,7 +39,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/ocean/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_csot_720p_622.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_csot_720p_622.xml \
     vendor/motorola/ocean/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_ofilm_720p_622.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_ofilm_720p_622.xml \
     vendor/motorola/ocean/proprietary/vendor/etc/qdcm_calib_data_mipi_mot_vid_tianma_720p_622.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_mipi_mot_vid_tianma_720p_622.xml \
-    vendor/motorola/ocean/proprietary/vendor/etc/permissions/com.qualcomm.location.xml:$(TARGE_COPY_OUT_VENDOR)/etc/permissions/com.qualcomm.location.xml \
+    vendor/motorola/ocean/proprietary/etc/permissions/com.qualcomm.location.xml:system/etc/permissions/com.qualcomm.location.xml \
     vendor/motorola/ocean/proprietary/vendor/firmware/AbovCapSense.BIN:$(TARGET_COPY_OUT_VENDOR)/firmware/AbovCapSense.BIN \
     vendor/motorola/ocean/proprietary/vendor/firmware/FT8006U_Pramboot.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/FT8006U_Pramboot.bin \
     vendor/motorola/ocean/proprietary/vendor/firmware/aw8624_haptic.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8624_haptic.bin \
